@@ -2,4 +2,4 @@
 
 This is the simple calculator on CSS and JavaScript.
 
-[example](/calc.png)
+![example](/calc.png)
